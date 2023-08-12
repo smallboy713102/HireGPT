@@ -1,4 +1,4 @@
-# SHORTLISTER
+# HireGPT
 
 The Resume Ranking App is a Python application built with Streamlit that allows you to rank and shortlist resumes based on their similarity to a given job description. It uses Natural Language Processing (NLP) techniques to extract skills and projects from resumes and then calculates the similarity between the job description and each resume using the Term Frequency-Inverse Document Frequency (TF-IDF) vectorizer and cosine similarity.
 
